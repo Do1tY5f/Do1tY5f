@@ -1,7 +1,7 @@
-- A common coder.
-- Using C for everything.
-- C is the best language in the world.
-
-Waiting for a job.
-
-e-Mail: doitysf@hotmail.com
+|Name|Li Zhiyuan|
+| :-: | :-: |
+|Age|21|
+|Skill|C|
+|Country|China|
+|Star sign|Capricorn♑|
+|E-Mail|doitysf@hotmail.com|
